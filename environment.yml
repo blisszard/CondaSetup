@@ -1,0 +1,8 @@
+name: minimal_pkg
+channels:
+  - defaults
+dependencies:
+- pandas
+- scikit-learn
+- matplotlib
+- notebook
